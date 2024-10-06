@@ -1,0 +1,42 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    color: white;
+}
+#heading{
+    color: green;
+}
+h3{
+    color: grey;
+}
+#box{
+    width: 300px;
+    height: 350px;
+    background-color: #1f2937;
+    padding-left: 50px;
+    padding-top: 50px;
+    margin-left:500px;
+    font-style:bolder;
+    border-radius: 20px;
+
+
+    
+}
+button{
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
+#boxone,#boxtwo{
+    width: 150px;
+    height: 25px;
+    border: solid;
+    background-color:#1f2937;
+    color: white;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
